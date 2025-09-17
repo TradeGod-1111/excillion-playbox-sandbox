@@ -1,0 +1,4 @@
+daily_loss_limit_pct: 2.0
+weekly_loss_limit_pct: 5.0
+risk_per_trade_pct: 0.5
+min_rr: 2.0
